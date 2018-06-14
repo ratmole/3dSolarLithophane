@@ -1,6 +1,11 @@
 # 3dSolarLithophane
 
-Here are the STL files for :
+3d Printable Solar System Objects using [Lithophane](https://en.wikipedia.org/wiki/Lithophane)
+and a modified python script from [Uwe Zimmermann](https://www.thingiverse.com/uwezi/about)
+
+The original python script is [here](https://www.thingiverse.com/thing:2811616) on Thingiverse.
+
+Here are the STL files for the Solar System Objects:
 - [Earth](https://www.thingiverse.com/thing:2959284)
 - [Jupiter](https://www.thingiverse.com/thing:2959334)
 - [Mars](https://www.thingiverse.com/thing:2959287)
@@ -13,11 +18,11 @@ Here are the STL files for :
 - [Uranus](https://www.thingiverse.com/thing:2960513)
 - [Venus](https://www.thingiverse.com/thing:2959556)
 
-
-3d Printable Solar System Objects using [Lithophane](https://en.wikipedia.org/wiki/Lithophane)
-and a modified python script from [Uwe Zimmermann](https://www.thingiverse.com/uwezi/about)
-
-The original python script is [here](https://www.thingiverse.com/thing:2811616) on Thingiverse.
+And some fictional...
+- [Ceres]()
+- [Haumea]()
+- [Makemake]()
+- [Eris]()
 
 
 # Usage
@@ -37,3 +42,5 @@ raTMole@firefly:~$ python Generate-Lithophane.py
 ### Hint: you can play with gama, contrast, brightness of the images...
 
 the generated STL Object will be in the Objects Folder.-
+
+thanks to [Astrogeology Science Center USGS](https://astrogeology.usgs.gov/search) and [SolarSystemScope](https://www.solarsystemscope.com/textures/) :)
